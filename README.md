@@ -26,6 +26,6 @@ Proyecto de pronostico de estado de condiciones maritimas en puertos
 ![APOLINAV 2](Imagenes/apolinav2.png?raw=true "APOLINAV 2")
 
 Proyecto de reconocimiento remoto de maniobras anomalas en espacio maritimo chileno
-![Anomalias 1](Imagenes/anomalias1.png?raw=true "Anomalias 1")
-![Anomalias 2](Imagenes/anomalias2.png?raw=true "Anomalias 2")
+![Anomalias 1](Imagenes/avante1.png?raw=true "Anomalias 1")
+![Anomalias 2](Imagenes/avante2.png?raw=true "Anomalias 2")
 
